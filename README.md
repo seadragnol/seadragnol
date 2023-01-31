@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm Hoàng Hải Long
 
+<a href=#><img src="contributions.svg"></a>
+
 <!--
 **seadragnol/seadragnol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
