@@ -1,7 +1,8 @@
 ### 👋 Hi, I'm Hoàng Hải Long
 
-![](https://komarev.com/ghpvc/?username=hoanghailongvn&color=blue)
 <a href=#><img src="contributions.svg"></a>
+
+![](https://komarev.com/ghpvc/?username=hoanghailongvn&color=blue)
 
 <!--
 **seadragnol/seadragnol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
