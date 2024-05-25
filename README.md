@@ -1,8 +1,14 @@
 ### 👋 Hi, I'm Hoàng Hải Long
 
-![](https://komarev.com/ghpvc/?username=hoanghailongvn&color=brightgreen)
+- 🌱 I’m currently learning pwn
+- 🥋 #27th [pwnable.tw](https://pwnable.tw/) - [SeaDragnoL](https://pwnable.tw/user/34817)
+- 💣 CTF player @ solo :(
+- 💬 Ask me about pwn
+- 💯 Contact me on Discord : seadragnol.
 
 <a href=#><img src="contributions.svg"></a>
+
+![](https://komarev.com/ghpvc/?username=hoanghailongvn&color=brightgreen)
 
 <!--
 **seadragnol/seadragnol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
