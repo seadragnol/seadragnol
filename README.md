@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning pwn
 - 🥋 [#11](https://pwnable.tw/user/34817) on [pwnable.tw](https://pwnable.tw/user/rank)
-- 💣 CTF player @ solo :(
-- 💬 Ask me about pwn
 - 💯 Contact me on Discord : seadragnol
 
 <a href=#><img src="contributions.svg"></a>
