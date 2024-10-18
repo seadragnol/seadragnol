@@ -4,11 +4,12 @@
 - 🥋 [#11](https://pwnable.tw/user/34817) on [pwnable.tw](https://pwnable.tw/user/rank)
 - 💯 Contact me on Discord : seadragnol
 
+
+<!--
 <a href=#><img src="contributions.svg"></a>
 
 ![](https://komarev.com/ghpvc/?username=hoanghailongvn&color=brightgreen)
 
-<!--
 **seadragnol/seadragnol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
