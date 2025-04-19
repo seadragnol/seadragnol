@@ -1,10 +1,12 @@
-### 👋 Hi, I'm Hoàng Hải Long
+## 👋 Hi, I'm Hoàng Hải Long
+- I’m currently learning pwn
+- Focusing on the Linux kernel
 
-- 🌱 I’m currently learning pwn
-- 🥋 [#11](https://pwnable.tw/user/34817) on [pwnable.tw](https://pwnable.tw/user/rank)
-- 💯 Contact me on Discord : seadragnol
+## 🏆 Achievements
+- CVE-2023-52927 | kCTF exp267
 
-
+## 🎮 CTFs
+- [#11](https://pwnable.tw/user/34817) on [pwnable.tw](https://pwnable.tw/user/rank)
 <!--
 <a href=#><img src="contributions.svg"></a>
 
