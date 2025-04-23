@@ -3,10 +3,10 @@
 - Focusing on the Linux kernel
 
 ## 🏆 Achievements
-- 2/2025: Found CVE-2023-52927, exploited in kCTF (exp267)
+- 02/2025: Found CVE-2023-52927, exploited in kCTF (exp267)
 
 ## 🎮 CTFs
-- [#11](https://pwnable.tw/user/34817) on [pwnable.tw](https://pwnable.tw/user/rank)
+- 05/2024: [#11](https://pwnable.tw/user/34817) on [pwnable.tw](https://pwnable.tw/user/rank)
 <!--
 <a href=#><img src="contributions.svg"></a>
 
