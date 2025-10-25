@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Hoàng Hải Long
-- I’m currently learning pwn
-- Focusing on the Linux kernel
+- Member of [@qriousec](https://x.com/qriousec)
 
 ## 🏆 Achievements
 - 02/2025: Found CVE-2023-52927, exploited in kCTF (exp267). [[writeup](https://seadragnol.github.io/posts/CVE-2023-52927/)] [[poc](https://github.com/seadragnol/CVE-2023-52927)]
+- 10/2025: Pwn2Own Ireland 2025. [[ref](https://x.com/thezdi/status/1980950817982361831)]
 
 ## 🎮 CTFs
 - 05/2024: [#11](https://pwnable.tw/user/34817) on [pwnable.tw](https://pwnable.tw/user/rank)
